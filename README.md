@@ -17,5 +17,5 @@ mysql NPM Package - https://www.npmjs.com/package/mysql
 handlebars NPM Package - https://www.npmjs.com/package/handlebars
 express-handlbars NPM Package - https://www.npmjs.com/package/express-handlebars
 
-![Alt text](public/assets/img/screenShot"Application")
+
 
